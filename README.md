@@ -16,4 +16,4 @@
 
 4. start the web server:
 
-        $ rails s
+        $ rails s# test_api
